@@ -1,2 +1,2 @@
 1 - clone git repo -> done
-2 - take pull from git 
+2 - take pull from git -> done
