@@ -2,4 +2,5 @@
 2 - take pull from git -> done
 3 - do changes on local and take pull of file from git which also have changes on same file ( conflict ) 
       - make changes on origin..
-      - 2 changes to local
+      - 2 changes to local.
+      - 3 changes to local...
