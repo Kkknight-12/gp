@@ -1,5 +1,7 @@
 1 - clone git repo -> done
 2 - take pull from git -> done
 3 - do changes on local and take pull of file from git which also have changes on same file ( conflict ) 
-      - make changes on origin..
+      - make changes on local
       - 2 changes to local.
+      - 3 updates to local...
+      - 4 added new line...
